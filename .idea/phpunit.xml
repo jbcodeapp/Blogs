@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/Laravel-Birthday-email-Reminder/tests/Unit" />
+        <option value="$PROJECT_DIR$/Laravel-Birthday-email-Reminder/tests/Feature" />
+        <option value="$PROJECT_DIR$/Laravel-6-Queue-for-Sending-Emails/tests/Unit" />
+        <option value="$PROJECT_DIR$/Laravel-6-Queue-for-Sending-Emails/tests/Feature" />
+        <option value="$PROJECT_DIR$/laravel-email-notification/tests/Unit" />
+        <option value="$PROJECT_DIR$/laravel-email-notification/tests/Feature" />
+      </list>
+    </option>
+  </component>
+</project>
