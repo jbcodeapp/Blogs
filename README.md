@@ -1,6 +1,9 @@
+
 # Blog Example Code Repository
 
 Welcome to the repository for the example code featured in my blog posts. This repository contains the source code, explanations, and resources related to various blog posts on [Your Blog Name].
+
+## Blog Content -> [Here](https://github.com/jbcodeapp/blogs_content/tree/main)
 
 ## Overview
 

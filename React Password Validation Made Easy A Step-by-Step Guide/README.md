@@ -1,3 +1,6 @@
+Read Blog -> [Here](https://github.com/jbcodeapp/blogs_content/tree/main/React%20Password%20Validation%20Made%20Easy%20A%20Step-by-Step%20Guide)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
