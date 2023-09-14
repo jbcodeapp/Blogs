@@ -1,4 +1,4 @@
-Read Blog -> [Here](https://github.com/jbcodeapp/blogs_content/tree/main/Boost%20Your%20React%20Forms%20Adding%20Email%20Validation)
+# Read Blog -> [Here](https://github.com/jbcodeapp/blogs_content/tree/main/Boost%20Your%20React%20Forms%20Adding%20Email%20Validation)
 
 # Getting Started with Create React App
 
