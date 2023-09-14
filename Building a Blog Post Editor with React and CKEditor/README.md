@@ -1,4 +1,4 @@
-Read Blog -> [Here](https://github.com/jbcodeapp/blogs_content/tree/main/Building%20a%20Blog%20Post%20Editor%20with%20React%20and%20CKEditor)
+# Read Blog -> [Here](https://github.com/jbcodeapp/blogs_content/tree/main/Building%20a%20Blog%20Post%20Editor%20with%20React%20and%20CKEditor)
 
 
 # Getting Started with Create React App
