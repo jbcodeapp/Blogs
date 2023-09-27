@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #000000;
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,11 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-/* Custom CSS for Toast notifications */
-.Toastify__toast {
-  background-color: #007bff; /* Change the background color */
-  color: #fff; /* Change the text color */
-  border-radius: 8px; /* Adjust the border radius */
-  font-size: 16px; /* Modify the font size */
 }
