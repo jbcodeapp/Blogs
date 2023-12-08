@@ -30,7 +30,6 @@ Here's a list of the example code available in this repository:
 - [Image-upload-in-nodejs-](#overview)
 - [Laravel-6-Queue-for-Sending-Emails](#getting-started)
 - [Laravel-Birthday-email-Reminder](#examples)
-- [laravel-email-notification](#contributing)
 
 ## Contributing
 
